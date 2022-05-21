@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207352700785",
+    "firebase_url": "https://sanatorium-be870-default-rtdb.firebaseio.com",
+    "project_id": "sanatorium-be870",
+    "storage_bucket": "sanatorium-be870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207352700785:android:bfbb1401adbe6cf4ba60d0",
+        "android_client_info": {
+          "package_name": "com.ain_2_20_adis_kerimov.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207352700785-lab7t2ljpi9rfgligskl45chik0vl6ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsnYfoSs5X-neiuFWuza3RrioDyR6NXhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207352700785-lab7t2ljpi9rfgligskl45chik0vl6ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
